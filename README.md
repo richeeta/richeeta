@@ -1,4 +1,4 @@
-Hi there 👋
+I'm an offensive security engineer and security researcher at Pindrop.
 
 <!--
 **richeeta/richeeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Hacker v. Triage: Inside the Bug Bounty Battleground
 * Co-presented with [@deni](https://deni.dk) at **DEF CON 33 Bug Bounty Village** (August 2025)
 
-## Work
+## Research & Contributions
 * ≥ 21 credited reports from Apple, including:
   * CVE-2024-44235
   * CVE-2025-24198
@@ -34,9 +34,6 @@ Here are some ideas to get you started:
   * Multiple web server security acknowledgements throughout 2024 and 2025
 * Top 25 Researcher in OpenAI's Bug Bounty Program (2025)
 * Multiple security acknowledgements from Microsoft Security Response Center, Google VRP, BBC
----
+* Authored the Platform-Specific Guidance for iOS and iPadOS in OWASP's Mobile Application Security Cheat Sheet
 * CompTIA Subject Matter Expert (2022, 2023, 2025)
 * Cybersecurity instructional specialist for Rice University's cybersecurity boot camp (2022–2024)
-* Senior security engineer at Landry's (2022–2026)
----
-* Authored the Platform-Specific Guidance for iOS and iPadOS in OWASP's Mobile Application Security Cheat Sheet
