@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   * CVE-2025-24133
   * CVE-2025-43452
   * CVE-2026-20655
+  * [CVE-2026-86987](https://support.apple.com/149230) — Apple Intelligence authorization issue that could allow a remote attacker to access sensitive user data; addressed in iOS 27.2 and iPadOS 27.2 with improved entitlement checks. Credited to Richard Hyunho Im (@richeeta) at Route Zero Security.
   * Multiple web server security acknowledgements throughout 2024 and 2025
 * Top 25 Researcher in OpenAI's Bug Bounty Program (2025)
 * Multiple security acknowledgements from Microsoft Security Response Center, Google VRP, BBC
