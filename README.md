@@ -1,4 +1,4 @@
-I'm an offensive security engineer and security researcher at Pindrop.
+I'm a security researcher on Pindrop's red team.
 
 <!--
 **richeeta/richeeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,18 +23,18 @@ Here are some ideas to get you started:
 * Co-presented with [@deni](https://deni.dk) at **DEF CON 33 Bug Bounty Village** (August 2025)
 
 ## Research & Contributions
-* ≥ 21 credited reports from Apple, including:
-  * CVE-2024-44235
-  * CVE-2025-24198
-  * CVE-2025-24225
-  * CVE-2025-30468
-  * CVE-2025-24133
-  * CVE-2025-43452
-  * CVE-2026-20655
-  * [CVE-2026-86987](https://support.apple.com/149230) — Apple Intelligence authorization issue that could allow a remote attacker to access sensitive user data; addressed in iOS 27.2 and iPadOS 27.2 with improved entitlement checks. Credited to Richard Hyunho Im (@richeeta) at Route Zero Security.
+* ≥ 24 credited reports from Apple, including:
+  * CVE-2024-44235: Spotlight
+  * CVE-2025-24198: Siri
+  * CVE-2025-24225: Mail Addressing
+  * CVE-2025-30468: Siri (Safari Listen to Page)
+  * CVE-2025-43452: Text Replacement
+  * CVE-2026-20655: Live Captions
+  * [CVE-2026-86987](https://support.apple.com/149230): Apple Intelligence
+  * CVE-2026-112521: `securityd` heap overflow
   * Multiple web server security acknowledgements throughout 2024 and 2025
 * Top 25 Researcher in OpenAI's Bug Bounty Program (2025)
-* Multiple security acknowledgements from Microsoft Security Response Center, Google VRP, BBC
+* Multiple security acknowledgements from Microsoft Security Response Center, Google VRP, BBC, Snap
 * Authored the Platform-Specific Guidance for iOS and iPadOS in OWASP's Mobile Application Security Cheat Sheet
 * CompTIA Subject Matter Expert (2022, 2023, 2025)
 * Cybersecurity instructional specialist for Rice University's cybersecurity boot camp (2022–2024)
